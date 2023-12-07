@@ -1,4 +1,4 @@
-# > 虎牙直播 开屏广告
+#虎牙直播 开屏广告
 host, pp-cdnfile2pcdn.msstatic.com, reject
 host, livewebbs2pcdn.msstatic.com, reject
 host, huyafile.msstatic.com, reject
